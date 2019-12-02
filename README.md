@@ -1,4 +1,4 @@
-# Bookmarkd
+# Bookmarkd App
 
 Choose from over 101 free ebooks and read them online or offline.
 
